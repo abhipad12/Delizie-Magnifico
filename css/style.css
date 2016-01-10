@@ -271,14 +271,14 @@ h1 a img {
 	display: inline-block;
 	width: 43px;
 	height: 43px;
-	  color: #d9c381;
+	  color: #ee0a4f;
 	  font: 24px/43px FontAwesome;
 }
 
 .socials a:first-child:after {
 	  content: '';
 	  font: 24px/43px FontAwesome;
-	  color: #d9c381;
+	  color: #ee0a4f;
 	  width: 43px;
 	  height: 43px;
 	  text-align: center;
@@ -300,7 +300,8 @@ h1 a img {
 
 
 .socials a.last {
-	background: url(../images/pint.png) center 0 no-repeat #fff;
+	background: url(../images/pint copy.png) center 0 no-repeat #fff;
+	color: #ee0a4f;
 }
 
 .socials a:hover {
