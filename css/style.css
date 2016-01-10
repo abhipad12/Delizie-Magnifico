@@ -753,9 +753,10 @@ footer a:hover {
 	color: #5f5e4e;
 }
 
-images/sitelogo.png {
+.f_logo {
 	width: 1000px;
 	height: 600px;
+	margin-bottom: 28px;
 }
 
 
